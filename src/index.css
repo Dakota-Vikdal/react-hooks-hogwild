@@ -135,6 +135,10 @@ ul {
   transition: all .2s ease-in-out;
 }
 
+.btn{
+  margin: 20px
+}
+
 .footer {
   padding: 1%;
   clear: both;
